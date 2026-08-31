@@ -5,3 +5,4 @@ BingeWatch - Full Stack Video Player
 - Add like feature
 - Implement Subscription counter
 - Implement Channel Banner
+- Implement Profile Section
