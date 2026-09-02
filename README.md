@@ -7,3 +7,4 @@ BingeWatch - Full Stack Video Player
 - Implement Channel Banner
 - Implement Profile Section
 - Implement comment section
+- Added watch history
